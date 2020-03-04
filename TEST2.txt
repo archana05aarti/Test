@@ -1,0 +1,30 @@
+ 122  git init https://github.com/archana05aarti/Test.git
+  123  git clone https://github.com/archana05aarti/Test.git
+  124  pwd
+  125  git pull
+  126  git
+  127  ls
+  128  cd Test/
+  129  ls
+  130  pwd
+  131  vim test1
+  132  pwd
+  133  ls
+  134  rm TEST1.txt.txt
+  135  ls
+  136  git --help
+  137  git log
+  138  git status
+  139  git add TEST1.txt
+  140  git status
+  141  git commit TEST1.txt
+  142  git status
+  143  git push
+  144  git push master
+  145  git push Test
+  146  git push TEST1.txt
+  147  git
+  148  git commit
+  149  git push
+  150  git push
+  151  history
